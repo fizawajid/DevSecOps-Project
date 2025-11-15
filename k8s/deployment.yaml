@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: netflix
-        image: fizawajid/netflix:latest
+        image: fiza239/netflix:latest
         ports:
         - containerPort: 80
         resources:
